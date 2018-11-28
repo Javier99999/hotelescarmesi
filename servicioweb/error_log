@@ -1,0 +1,1 @@
+[18-Nov-2018 20:45:14 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'upmhworl_carmesi'@'localhost' (using password: YES) in /home/upmhworl/public_html/hotelescarmesi/servicioweb/clsCarmesi.class.php on line 12
