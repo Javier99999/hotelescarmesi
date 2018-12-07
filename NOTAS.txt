@@ -1,0 +1,3 @@
+Se agrego la opcion de login a travez de firebase lo cual
+implico no poderlo publicar en el host ya que el servidor 
+es compartido sin embargo asi funciona perfectamente de modo local 
